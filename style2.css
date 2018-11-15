@@ -35,11 +35,10 @@ strong {
 .main p {
   font-size: 25px;
 }
-.about li {
-  display: inline-block;
-  font-size: 250px;
+#about3 div {
+  font-size: 200px;
 }
-.about {
+#about3 {
   background-color: rgb(224, 213, 213);
 }
 
